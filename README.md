@@ -13,7 +13,7 @@
 </p>
 
 <!---------- Badges ----------------->  
-<p align="center">
+<!--p align="center">
    <img src="https://img.shields.io/static/v1?label=made by&message=Alex Lima&color=BE920C&labelColor=000000" alt="Alex Lima" />
   <img alt="Last commit" src="https://img.shields.io/static/v1?label=Last commit&message=March&color=BE920C&labelColor=000000">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=BE920C&labelColor=000000">
@@ -24,11 +24,21 @@
   <!----(3292a6)--BlueMedium-->
   <!----(015F43)--GreenMedium-->
   <!----(BE920C)--LaranjaMedium-->
+<!--/p-->
+
+<!-- Ajustes no confluto de visuação do GitHub -->
+<!---------- Badges ----------------->
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=made_by&message=Alex_Lima&color=BE920C&labelColor=000000" alt="Alex Lima" />
+  <img alt="Last commit" src="https://img.shields.io/static/v1?label=Last_commit&message=March&color=BE920C&labelColor=000000" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=BE920C&labelColor=000000" />
+  <img alt="Repo size" src="https://img.shields.io/static/v1?label=repo_size&message=14.8MB&color=BE920C&labelColor=000000" />
 </p>
+
 <br>
 <!---------- showcase  ----------------->  
 <p align="center">
-  <img alt="LoopLAB" src="screen_shots/laptopPageFluteerTechtaste.png" width="100%">
+  <img alt="LoopLAB" src="screen_shots/laptopPageFlutterTechtaste.png" width="100%">
 </p>
 
  <!----- Acess Deploy Demonstration-->
